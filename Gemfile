@@ -35,6 +35,7 @@ end
 
 gem "typus", :git => "git://github.com/fesplugas/typus.git"
 
+gem "rails_12factor"
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
